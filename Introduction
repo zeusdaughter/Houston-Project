@@ -1,0 +1,12 @@
+Porblem statement
+_____________________
+Houston is the fourth most populous city in the United States. It is diverse in many aspects. At least 145 languages are spoken by city residents. Houston's multiculturalism, fueled by large waves of immigrants. Houston's economy has a broad industrial base in energy, manufacturing, aeronautics, and transportation. Leading in healthcare sectors and building oilfield equipment, Houston has the second most Fortune 500 headquarters of any U.S. municipality within its city limits . Thus the household income varies a lot too (https://en.wikipedia.org/wiki/Houston). 
+Houston has more than 80 types of food places and restaurants.  and if one would like to advertise a new place in of the 87 Houston neighborhoods it should be done wisely.  
+I am planning to use publically available information regarding popular places in each neighborhood  in combination with demographic data to break Houston into thematic groups. 
+The above  will help me with the targeted advertisement placement in Houston neighborhoods areas.
+
+Data to be used for the project
+____________________________________
+I am going to use open data to get geospatial data about Houston (available at https://cohgis-mycity.opendata.arcgis.com)
+Foursquare data about restaurants popular in Houston neighborhoods (established via https://developer.foursquare.com)
+Houston Demographics by Census Tracts ( found via Google dataset Search)
